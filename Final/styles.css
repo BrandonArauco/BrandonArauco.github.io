@@ -62,3 +62,7 @@ body {
     height: 300px;
     width: auto;
 }
+
+.sur {
+    border-radius: 50%;
+}
