@@ -1,0 +1,64 @@
+body {
+    background-color: #ebbe84;
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8
+}
+
+.color-page {
+    background-color: #f8e1f4;
+    color: #4b3c7e;
+}
+
+#hover-image {
+    transition: filter 0.3s;
+    margin: 50px;
+}
+
+.blurred {
+    filter: blur(5px);
+}
+
+.Welcome {
+    color: #4b3c7e;
+    background-color: #d9c8e6;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #343a40; 
+}
+
+.navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: white;
+    color: #343a40;
+}
+
+.navbar-nav .active {
+    background-color: #905ec1cf;
+    border-radius: 10%;
+}
+
+.dropdown-menu {
+    background-color: #b35291;
+
+}
+
+.dropdown-item {
+    color: white;
+}
+
+.dropdown-item:hover {
+    background-color: white;
+    color: #343a40;
+}
+
+.reference {
+    border-radius: 50px;
+    height: 300px;
+    width: auto;
+}
